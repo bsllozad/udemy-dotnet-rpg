@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bfd1deb-80e2-4019-8889-69776fcc884e": {
+      "ProjectGuid": "6bfd1deb-80e2-4019-8889-69776fcc884e",
+      "DisplayName": "dotnet-rpg",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f6b63f8d-c8f6-4123-9757-846906379ca2": {
+      "ProjectGuid": "f6b63f8d-c8f6-4123-9757-846906379ca2",
+      "DisplayName": "dotnet-rpg-31",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

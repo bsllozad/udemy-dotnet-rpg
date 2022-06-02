@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-rpg", "dotnet-rpg\dotnet-rpg.csproj", "{6BFD1DEB-80E2-4019-8889-69776FCC884E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-rpg-31", "dotnet-rpg-31\dotnet-rpg-31.csproj", "{F6B63F8D-C8F6-4123-9757-846906379CA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BFD1DEB-80E2-4019-8889-69776FCC884E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFD1DEB-80E2-4019-8889-69776FCC884E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFD1DEB-80E2-4019-8889-69776FCC884E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFD1DEB-80E2-4019-8889-69776FCC884E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B63F8D-C8F6-4123-9757-846906379CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B63F8D-C8F6-4123-9757-846906379CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B63F8D-C8F6-4123-9757-846906379CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B63F8D-C8F6-4123-9757-846906379CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D94C45-0A89-41F0-8EC9-3A8A387E32EE}
+	EndGlobalSection
+EndGlobal
